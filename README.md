@@ -7,7 +7,7 @@
 
 - Je suis actuellement étudiant en **BTS Systèmes Numériques Informatique et Réseaux**
 
-- J'apprends actuellement le **C++, C#, Assembly**
+- J'apprends actuellement le **C++**
 
 <h3 align="left">Mes réseaux :</h3>
 <p align="left">
