@@ -5,7 +5,7 @@
 <h1 align="center">Bonjour 👋, moi c'est Nicolas</h1>
 <h3 align="center">Je suis passionné de programmation et de développement.</h3>
 
-- Je suis actuellement étudiant en **BTS Système Numérique Informatique et Réseaux**
+- Je suis actuellement étudiant en **BTS Systèmes Numériques Informatique et Réseaux**
 
 - J'apprends actuellement le **C++, C#, Assembly**
 
