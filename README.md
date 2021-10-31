@@ -2,7 +2,7 @@
 ## Twitter : [Contactez-moi](https://twitter.com/zoldaxzs)
 ### 
 
-<h1 align="center">Bonjour 👋, moi c'est Nicolas</h1>
+<h1 align="center">Bonjour 👋
 <h3 align="center">Je suis passionné de programmation et de développement.</h3>
 
 - Je suis actuellement étudiant en **BTS Systèmes Numériques Informatique et Réseaux**
